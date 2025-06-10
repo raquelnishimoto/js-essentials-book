@@ -1,0 +1,15 @@
+{
+  "name": "js-essentials-book",
+  "version": "1.0.0",
+  "description": "Repository for all exercises in the [\"Introduction to Programming with JavaScript\"](https://launchschool.com/books/javascript) book.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
